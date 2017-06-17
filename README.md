@@ -1,2 +1,2 @@
 # jobsapp
-React Native application viewing jobs via geolocation and Indeed api.
+React Native application for viewing jobs using geolocation and Indeed api.
